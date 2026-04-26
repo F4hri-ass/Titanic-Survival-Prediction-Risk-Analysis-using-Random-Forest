@@ -1,9 +1,5 @@
 # 🚢 Titanic Survival Prediction – Random Forest Classifier
 
-![Python](https://shields.io)
-![Machine Learning](https://shields.io)
-![Accuracy](https://shields.io)
-
 ## 📌 Project Overview
 Proyek penelitian ini bertujuan untuk menganalisis dan memprediksi faktor-faktor yang mempengaruhi tingkat keselamatan penumpang kapal Titanic menggunakan algoritma **Random Forest Classifier**. Fokus utama proyek ini adalah menangani ketidakseimbangan data (*imbalanced data*) untuk meningkatkan presisi prediksi pada kelas minoritas (penumpang selamat).
 
@@ -28,11 +24,6 @@ Dataset terdiri dari 891 data latih dan 418 data prediksi dengan fitur utama:
     *   F1-Score (Selamat): 0.91
     *   Precision (Tidak Selamat): 0.97
 *   **Insights**: Tarif tiket (Fare) merupakan fitur numerik yang paling berpengaruh terhadap prediksi keselamatan.
-
-## 📁 Repository Structure
-*   `notebooks/`: File Jupyter Notebook/Google Colab (.ipynb).
-*   `reports/`: Dokumen lengkap penelitian (Jurnal Statistika dan Aplikasinya).
-*   `results/`: Output prediksi akhir dalam format .xlsx.
 
 
 **Developed by Muhammad Fahri Novarian**  
